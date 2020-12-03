@@ -1,0 +1,61 @@
+/*CSS for login page*/
+
+form.login-form {
+    text-align: center;
+    border: solid 4px lightseagreen;
+    color:lightseagreen;
+    border-radius: 15px;
+    margin: auto;
+    width: 400px;
+    height: 300px;
+    background-color: rgb(206, 196, 187);
+    
+}
+
+.sign-in-header{
+    color:lightseagreen;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align:center;
+}
+
+form.registration-form {
+    border: solid 1px lightseagreen;
+    color:lightseagreen;
+    text-align: center;
+    width: 480px;
+    margin: auto;
+    background-color: lightgray;
+}
+
+.join-header {
+    text-align:center;
+    color:lightseagreen;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.not-a-member{
+    text-align: center;
+    color:lightseagreen;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+.join-background-pic{
+    background-image: url('images/join-background.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.login-background-pic{
+    background-image: url('images/Pier.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.page-header{
+    text-align: center;
+    color: lightseagreen;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
